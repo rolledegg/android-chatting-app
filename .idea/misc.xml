@@ -7,9 +7,10 @@
         <entry key="app/src/main/res/drawable/app_logo.xml" value="0.1945" />
         <entry key="app/src/main/res/drawable/edt_background.xml" value="0.1945" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.4276041666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/user_layout.xml" value="0.1984375" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.1984375" />
       </map>
     </option>
   </component>

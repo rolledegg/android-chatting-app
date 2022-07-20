@@ -23,6 +23,7 @@ class LoginActivity : AppCompatActivity() {
 
         binding.signUpBtn.setOnClickListener{
             val intent = Intent(this, SignUpActivity::class.java)
+            finish()
             startActivity(intent)
         }
 
@@ -40,6 +41,7 @@ class LoginActivity : AppCompatActivity() {
                 if (task.isSuccessful) {
                     // code for logging in user
                     val intent = Intent(this, MainActivity::class.java)
+                    finish()
                     startActivity(intent)
                 } else {
                     // If sign in fails, display a message to the user.
